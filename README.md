@@ -11,19 +11,19 @@
 
 ## Особенности
 
-- **Простое управление**: кликните по стакану, чтобы выбрать его, затем кликните по другому, чтобы перелить воду;
-- **Визуальная анимация**: плавное переливание жидкости;
-- **Проверка победы**: автоматическое определение завершения игры;
-- **Сброс прогресса**: возможность начать уровень заново;
-- **Адаптивный интерфейс**: игра корректно отображается на разных устройствах.
+$`\color{yellow}*`$ **Простое управление**: кликните по стакану, чтобы выбрать его, затем кликните по другому, чтобы перелить воду;<br>
+$`\color{yellow}*`$ **Визуальная анимация**: плавное переливание жидкости;<br>
+$`\color{yellow}*`$ **Проверка победы**: автоматическое определение завершения игры;<br>
+$`\color{yellow}*`$ **Сброс прогресса**: возможность начать уровень заново;<br>
+$`\color{yellow}*`$ **Адаптивный интерфейс**: игра корректно отображается на разных устройствах.
 
 ## Технологии
 
 Проект построен на стандартном стеке веб-технологий:
 
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+$`\color{yellow}*`$ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+$`\color{yellow}*`$ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+$`\color{yellow}*`$ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Игровой процесс
 
@@ -38,8 +38,8 @@
 
 Этот репозиторий является учебным, но вы можете:
 
-- Сообщать об ошибках в разделе [Issues](https://github.com/yongsatur/waterpuzzle-js/issues);
-- Предлагать улучшения через [Pull Requests](https://github.com/yongsatur/waterpuzzle-js/pulls).
+$`\color{yellow}*`$ Сообщать об ошибках в разделе [Issues](https://github.com/yongsatur/waterpuzzle-js/issues);<br>
+$`\color{yellow}*`$ Предлагать улучшения через [Pull Requests](https://github.com/yongsatur/waterpuzzle-js/pulls).
 
 ## 📜 Лицензия
 
